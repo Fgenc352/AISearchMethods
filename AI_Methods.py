@@ -1,5 +1,5 @@
 #peg solitaire
-#Fatih Genç 150119905 Kutay Başkurt 150119645
+#Fatih Genç 150119905
 from copy import copy, deepcopy
 import time
 import random
